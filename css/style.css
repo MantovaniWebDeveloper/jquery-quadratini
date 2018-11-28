@@ -19,4 +19,17 @@
   background-color: blue;
   width: 15%;
   border: 1px solid;
+  cursor: pointer;
+}
+.activeRed {
+  background-color: red;
+  width: 15%;
+  border: 1px solid;
+  cursor: pointer;
+}
+.activeGreen {
+  background-color: green;
+  width: 15%;
+  border: 1px solid;
+  cursor: pointer;
 }
